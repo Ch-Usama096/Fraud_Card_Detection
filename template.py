@@ -25,7 +25,7 @@ list_of_file = [
     f"src/{project}/utils.py",
     "app.py",
     "setup.py",
-    "requirements.tx",
+    "requirements.txt",
 ]
 
 # Creating the Folder and check the folder already exits or not
